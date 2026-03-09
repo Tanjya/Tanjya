@@ -1,6 +1,6 @@
 # Hi, I'm Tanjya 👋  
 
-🚀 Self-taught Full-Stack Developer | 🌍 Based in London, UK  
+🚀 Self-taught Frontend Developer | 🌍 Based in London, UK  
 
 I enjoy building **scalable, data-driven web applications** with a clean UI/UX.  
 Currently working on projects with **React, TypeScript, Node.js, TailwindCSS, and Blockchain**.  
